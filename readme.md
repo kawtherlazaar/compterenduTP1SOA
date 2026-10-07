@@ -1,4 +1,4 @@
-# TP1 : Implémentez une SOA (LifeLeft)
+# TP1 :  SOA (LifeLeft)
 
 Web service SOAP qui calcule le nombre d'années restant à vivre à partir d'un prénom, d'un sexe et d'une année de naissance Il est packagé avec Maven et déployé sur GlassFish 5.
 
